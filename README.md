@@ -1,5 +1,4 @@
 # LuciferGUI
-LuciferGUI 1.3
 
 ## C'est quoi LuciferGUI ?
 
